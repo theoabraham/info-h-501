@@ -1,0 +1,3 @@
+0 = Airplane
+1 = Bird
+2 = Horse
